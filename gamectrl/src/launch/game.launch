@@ -1,0 +1,7 @@
+<launch>
+
+   <node pkg="gamectrl" type="gamectrl" name="communication" output="screen">
+	<param name="id" type="int" name 
+
+	</node>
+</launch>

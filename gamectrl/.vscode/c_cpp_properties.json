@@ -1,0 +1,61 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/wujs/Code/Project/op3/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/ball_detector/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/common/include/**",
+        "/home/wujs/Code/Project/op3/src/DynamixelSDK/ros/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/fira_marathon/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/fira_obstacle/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/fira_sprint/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/strategy/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/localization_monitor/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/vision/marathon_vision/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/moving_ball/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/lib/npumath/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/lib/npuvision/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/vision/obstacle_vision/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Tools/op3_action_editor/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_action_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_balance_control/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Demo/op3_ball_detector/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_base_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Tools/op3_camera_setting_tool/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Demo/op3_demo/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_direct_control_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Tools/op3_gui_demo/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_head_control_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_kinematics_dynamics/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_localization/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-Tools/op3_offset_tuner_server/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_online_walking_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_tuning_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/op3_walking_module/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3/open_cr_module/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/robocup_detector/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/game/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/robocup_localization/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Framework/robotis_controller/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Framework/robotis_device/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Framework/robotis_framework_common/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Math/robotis_math/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/ros_lut_tool/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Utility/ros_madplay_player/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-Utility/ros_mpg321_player/include/**",
+        "/home/wujs/Code/Project/op3/src/FUNCTION/single_eye/include/**",
+        "/home/wujs/Code/Project/op3/src/Fira/vision/sprint_vision/include/**",
+        "/home/wujs/Code/Project/op3/src/ROBOTIS-OP3-ETC/usb_cam/include/**",
+        "/home/wujs/Code/Project/op3/src/Robocup_tianjin/lib/yolo_fastest/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
